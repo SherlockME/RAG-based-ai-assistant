@@ -1,4 +1,4 @@
-# 🧠 RAG-Based AI Teaching Assistant (Python Course)
+# 🧠 RAG-Based AI Teaching Assistant 
 
 This project builds a **Retrieval-Augmented Generation (RAG)** pipeline that acts as a smart **AI Teaching Assistant** for a Python course.  
 It uses automatic speech recognition (ASR), embeddings, and vector search to retrieve relevant transcript segments from long-form video lectures — and can later be extended to generate answers using an LLM.
