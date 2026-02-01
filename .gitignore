@@ -1,0 +1,7 @@
+videos/
+audios/
+jsons/
+jsons_backup/
+vectors.joblib
+venv/
+__pycache__/
